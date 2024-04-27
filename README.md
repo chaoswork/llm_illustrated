@@ -2,7 +2,7 @@
 
 本电子书目前进度完成不到 10%，可以关注下方公众号回复 "看图学大模型" 来获取最新版。
 
-![看图学大模型](./images/kantuxue_qr.jpeg)
+ <img src="./images/kantuxue_qr.jpeg" width = "350" alt="图片名称" align=center />
 
 
 节选一些文章的图片，尽量用清晰易懂的方式来讲述大模型相关技术。
